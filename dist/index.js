@@ -3,11 +3,11 @@
 Object.defineProperty(exports, "__esModule", {
     value: true
 });
-exports.add = undefined;
+exports.Jsadd = undefined;
 
 require('babel-polyfill');
 
-var add = exports.add = function add() {
+var Jsadd = exports.Jsadd = function Jsadd() {
     var a = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 1;
     var b = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 2;
 
