@@ -4,6 +4,14 @@
 
 JavaScript Npm 包 模板
 
+## 发布流程
+
+1. `npm run build`
+2. `npm run cover`
+3. `npm login`
+4. `npm version patch`
+5. `npm publish`
+
 ## 安装
 
 ```sh
