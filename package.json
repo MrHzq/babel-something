@@ -1,7 +1,7 @@
 {
     "name": "js-npm-template",
     "version": "1.0.2",
-    "description": "从零配置babel",
+    "description": "JavaScript Npm 包 模板",
     "main": "dist/index.js",
     "scripts": {
         "build": "babel lib --out-dir dist",
