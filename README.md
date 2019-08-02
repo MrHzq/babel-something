@@ -1,2 +1,3 @@
-# babel-something
-从零配置babel
+# js-npm-template
+
+从零配置 babel
