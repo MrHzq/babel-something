@@ -1,6 +1,6 @@
 {
     "name": "js-npm-template",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "从零配置babel",
     "main": "dist/index.js",
     "scripts": {
